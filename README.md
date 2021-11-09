@@ -1,5 +1,5 @@
 # Predictive Analytic for Business Nanodegree
-Predictive Analytics for Business by Udacity
+![udacity-logo-vector](https://user-images.githubusercontent.com/16072216/140942378-0c5785cf-4be0-449b-9633-d599d5e0f0a8.jpg)
 
 ## Overview
 This Nanodegree program prepares you for a career in predictive analytics, and enables you to master a scientific approach to solving problems with data. You’ll build fluency in two leading
